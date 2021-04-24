@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kwV3/e+kK8gPACOlQK+nR3nHJMcM9o/isJ7uLSo5kkDKf0zXM1PEA9CemaBrGFnV3e6kA+KY/e2SxUaUzipyw==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haghjou\\.nuget\\packages\\mongodb.bson\\2.12.2\\mongodb.bson.2.12.2.nupkg.sha512",
+    "C:\\Users\\Haghjou\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
