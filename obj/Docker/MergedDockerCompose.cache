@@ -1,0 +1,28 @@
+services:
+  SimpleCrudDb:
+    container_name: SimpleCrudDb
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - /site:/data/db:rw
+  simplecrud.webapi:
+    build:
+      context: C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB
+      dockerfile: SimpleCrud.WebApi/Dockerfile
+    depends_on:
+      SimpleCrudDb:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      MongoSettings:Connection: mongodb://SimpleCrudDb:27017
+    image: simplecrudwebapi
+    ports:
+    - published: 8000
+      target: 80
+    volumes:
+    - /.aspnet/https:/root/.aspnet/https/:rw
+    - /.microsoft/usersecrets:/root/.microsoft/usersecrets:rw
+version: '3.4'

@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  SimpleCrudDb : 
+    container_name : SimpleCrudDb
+    restart: always
+    volumes:
+        - ${WEBAPP_STORAGE_HOME}/site:/data/db
+    ports:
+        - "27017:27017"
+
+  simplecrud.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - "MongoSettings:Connection=mongodb://SimpleCrudDb:27017"
+    depends_on:
+      - SimpleCrudDb
+    volumes:
+      - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+      - ${HOME}/.aspnet/https:/root/.aspnet/https/
+    ports:
+      - "8000:80"

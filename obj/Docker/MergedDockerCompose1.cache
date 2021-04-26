@@ -1,0 +1,49 @@
+services:
+  SimpleCrudDb:
+    container_name: SimpleCrudDb
+    image: mongo
+    ports:
+    - published: 27017
+      target: 27017
+    restart: always
+    volumes:
+    - /site:/data/db:rw
+  simplecrud.webapi:
+    build:
+      context: C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB
+      dockerfile: SimpleCrud.WebApi/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: SimpleCrud.WebApi
+      target: base
+    container_name: SimpleCrud.WebApi
+    depends_on:
+      SimpleCrudDb:
+        condition: service_started
+    entrypoint: tail -f /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      MongoSettings:Connection: mongodb://SimpleCrudDb:27017
+      NUGET_FALLBACK_PACKAGES: ''
+    image: simplecrudwebapi:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net5.0/SimpleCrud.WebApi.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    ports:
+    - published: 8000
+      target: 80
+    tty: true
+    volumes:
+    - C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.WebApi:/app:rw
+    - C:\Users\AliAkbar\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\AliAkbar\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - /.aspnet/https:/root/.aspnet/https/:rw
+    - C:\Users\AliAkbar\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+    - C:\Users\AliAkbar\.nuget\packages:/root/.nuget/packages:ro
+    - C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB:/src:rw
+version: '3.4'

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj": {}
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
+        "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
         "projectName": "SimpleCrud.Application",
-        "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
-        "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\obj\\",
+        "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
+        "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
               }
             }
           }
@@ -68,17 +68,17 @@
         }
       }
     },
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj",
         "projectName": "SimpleCrud.Domain",
-        "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj",
-        "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\obj\\",
+        "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj",
+        "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -128,17 +128,17 @@
         }
       }
     },
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj": {
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj",
         "projectName": "SimpleCrud.Persistence",
-        "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj",
+        "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
               },
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
               }
             }
           }
@@ -199,17 +199,17 @@
         }
       }
     },
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj": {
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj",
+        "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj",
         "projectName": "SimpleCrud.Service",
-        "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj",
-        "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\obj\\",
+        "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj",
+        "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -223,8 +223,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
               }
             }
           }
@@ -263,17 +263,17 @@
         }
       }
     },
-    "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj": {
+    "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj",
         "projectName": "SimpleCrud.WebApi",
-        "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\SimpleCrud.WebApi.csproj",
+        "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -287,14 +287,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj"
               },
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Persistence\\SimpleCrud.Persistence.csproj"
               },
-              "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj": {
-                "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj"
+              "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj": {
+                "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Service\\SimpleCrud.Service.csproj"
               }
             }
           }
@@ -316,6 +316,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

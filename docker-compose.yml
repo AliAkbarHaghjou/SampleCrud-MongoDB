@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  SimpleCrudDb:
+    image: mongo
+
+  simplecrud.webapi:
+    image: ${DOCKER_REGISTRY-}simplecrudwebapi
+    build:
+      context: .
+      dockerfile: SimpleCrud.WebApi/Dockerfile

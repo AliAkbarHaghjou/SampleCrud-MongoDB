@@ -46,3 +46,15 @@ F:\Projects\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Dom
 F:\Projects\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.dll
 F:\Projects\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\ref\SimpleCrud.Domain.dll
 F:\Projects\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.pdb
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.deps.json
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.dll
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\bin\Debug\net5.0\ref\SimpleCrud.Domain.dll
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\bin\Debug\net5.0\SimpleCrud.Domain.pdb
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.csprojAssemblyReference.cache
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.AssemblyInfoInputs.cache
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.AssemblyInfo.cs
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.dll
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\ref\SimpleCrud.Domain.dll
+C:\Users\AliAkbar\Documents\GitHub\SampleCrud-MongoDB\SimpleCrud.Domain\obj\Debug\net5.0\SimpleCrud.Domain.pdb

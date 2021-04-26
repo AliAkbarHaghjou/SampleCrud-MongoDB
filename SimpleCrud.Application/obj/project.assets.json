@@ -468,19 +468,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Haghjou\\.nuget\\packages\\": {}
+    "C:\\Users\\AliAkbar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
+      "projectUniqueName": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
       "projectName": "SimpleCrud.Application",
-      "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
-      "packagesPath": "C:\\Users\\Haghjou\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Application\\obj\\",
+      "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\SimpleCrud.Application.csproj",
+      "packagesPath": "C:\\Users\\AliAkbar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Haghjou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AliAkbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -494,8 +494,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
-              "projectPath": "F:\\Projects\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
+            "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj": {
+              "projectPath": "C:\\Users\\AliAkbar\\Documents\\GitHub\\SampleCrud-MongoDB\\SimpleCrud.Domain\\SimpleCrud.Domain.csproj"
             }
           }
         }
